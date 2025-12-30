@@ -1,126 +1,67 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asadoojjaman+😊" />
-</h1>
+# Hi, I'm Asadoojjaman 👋
 
-<div align="center">
-  <h3>🚀 Backend Developer | Python & Django Specialist 🚀</h3>
-</div>
+Backend Engineer specializing in Python and Django. I build scalable REST APIs and focus on clean, maintainable code.
 
-<br/>
+<br>
 
-<div align="center">
- 
- 🔭 I'm currently working on **Advanced Django Projects**\
- 🌱 Learning **JavaScript, WebSockets & System Design**\
- 🤔 Exploring **Backend Architecture & Scalability**\
- ✨ Future Goal: **Industry-ready Backend Engineer**\
- 💬 Ask me about **Python, Django, APIs, Databases**\
- ⚡ Fun fact: **I love solving complex backend challenges**
- 
-</div>
+## 💻 Tech Stack
 
-<br/>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<hr/>
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-<br/>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<br/>
+<br>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,redis,postgresql,mysql,git,github" />
-</div>
+## 🚀 What I Do
 
-<br/>
+- **API Development** – Design and build RESTful APIs using Django and Django REST Framework
+- **Asynchronous Processing** – Implement background tasks and scheduled jobs with Celery and Redis
+- **Authentication & Security** – Develop JWT-based authentication and role-based access control systems
+- **Database Optimization** – Write efficient queries and optimize database performance
+- **Learning & Growth** – Exploring AI integration and advanced backend architecture patterns
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,websocket" />
-</div>
+<br>
 
-<br/>
+## 🏆 Problem Solving
 
-<hr/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/asadoojjaman00/)
 
-<br/>
+Actively solving algorithmic problems and improving problem-solving skills.
 
-<h2 align="center">📊 GitHub Analytics & Activity 📊</h2>
+<br>
 
-<br/>
+## 📫 Contact
 
-<div align="center">
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=asadoojjaman00&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Asadoojjaman's Github stats" />
-  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadoojjaman00&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadoojjaman00/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadoojjaman00@gmail.com)
 
-<br/>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadoojjaman00&custom_title=Asadoojjaman's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area_color=FFFFFF&title_color=00bfbf&area=true&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadoojjaman00&theme=dark&hide_border=true&stroke=00bfbf&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" />
-</div>
-
-<br/>
-
-<hr/>
-
-<br/>
-
-<h2 align="center">🌱 Currently Leveling Up 🌱</h2>
-
-<br/>
+---
 
 <div align="center">
   
-- **🧠 Advanced Django Concepts**
-- **⚡ WebSockets & Real-time Apps** 
-- **🔗 JavaScript for Backend Integration**
-- **🎯 System Design Fundamentals**
-- **🚀 Scalable Architecture Patterns**
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-</div>
+**Open to backend development opportunities** 🚀
 
-<br/>
-
-<hr/>
-
-<br/>
-
-<h2 align="center">📫 Connect With Me 📫</h2>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:asadoojjaman00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/asadoojjaman00/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/asadoojjaman00" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-  <img src="https://visitcount.xyz/api/VisitorCounter?user=asadoojjaman00&label=Visitors%20Count&color=00bfbf&style=flat" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asadoojjaman00&label=Profile%20Views&color=00bfbf&style=flat" alt="Profile Views" />
 </div>
